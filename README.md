@@ -44,7 +44,7 @@ A web app to create message templates, like "Hey {FirstName}, checking in for ou
 
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.kpn.com/)
+[<img align="left" height="94px" width="94px" alt="Mozart" src="https://github.com/eduardocgarza/eduardocgarza/blob/main/logo-mozart.jpg?raw=true"/>](https://mozartpianos.com)
 
 **Co-Founder and Technical Lead** \
 [**Mozart**](https://mozartpianos.com) • Full-Time \
@@ -53,7 +53,7 @@ Languages & Technologies: `React`, `Electron`, `Node/Express`, `Postgres`, `AWS`
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
+[<img align="left" height="94px" width="94px" alt="BioConscious" src="https://github.com/eduardocgarza/eduardocgarza/blob/main/logo-bioconscious.png?raw=true"/>](https://www.bioconscious.tech)
 
 **Full-Stack Developer, Intern** \
 [**BioConscious**](https://www.bioconscious.tech) • Full-Time \
@@ -62,10 +62,10 @@ Languages & Technologies: `React`, `Electron`, `Swift`, `Node/Express`, `MySQL`
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/duo.jpeg?raw=true"/>](https://duo.nl/)
+<img align="left" height="94px" width="94px" alt="Contractor" src="https://github.com/eduardocgarza/eduardocgarza/blob/main/logo-contractor.png?raw=true"/>
 
 **Software Developer, Contract** \
-[**DUO**](https://duo.nl/) • Contract \
+**Independent** • Contract \
 Languages & Technologies: `React`, `Vue.js`, `Redux`, `Context API`, `Node/Express`, `MySQL`, `Postgres`, `GCP`, `AWS`
 
 <br/>
