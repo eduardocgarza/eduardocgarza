@@ -13,29 +13,29 @@
 
 Check out some of my cool projects:
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.kpn.com/)
+[<img align="left" height="94px" width="94px" alt="CC" src="https://github.com/eduardocgarza/eduardocgarza/blob/main/logo-creative-chronicles.png?raw=true"/>](https://creativechronicles.org)
 
 [**Creative Chronicles**](https://creativechronicles.org) \
 Get the YouTube videos of inventors, founders, and key executives at top companies in chronological order, understanding their evolving ideas and advice throughout their own careers. \
-Built with: `React`, `Next.js`, `Node/Express`, `Amazon EC2`, `Firebase Storage`, `PostgreSQL`, `Youtube API`
+**Built with**: `React`, `Next.js`, `Node/Express`, `Amazon EC2`, `Firebase`, `PostgreSQL`, `Youtube API`
 
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
+[<img align="left" height="94px" width="94px" alt="Comma.ai" src="https://github.com/eduardocgarza/eduardocgarza/blob/main/logo-comma.jpeg?raw=true"/>](https://openpilot.netlify.app)
 
-**Comma.ai OpenPilot Dashboard** \
+[**Comma.ai OpenPilot Dashboard**](https://openpilot.netlify.app) \
 A dashboard for viewing and analyzing your rides using the Comma.ai self-driving car navigator. \
-Built with: `React`, `Google Maps API`, `Web Storage API`
+**Built with**: `React`, `Google Maps API`, `Web Storage API`
 
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/duo.jpeg?raw=true"/>](https://duo.nl/)
+[<img align="left" height="94px" width="94px" alt="CopyPanda" src="https://github.com/eduardocgarza/eduardocgarza/blob/main/logo-copypanda.png?raw=true"/>](https://copypanda.co)
 
-**CopyPanda** \
+[**CopyPanda**](https://copypanda.co) \
 A web app to create message templates, like "Hey {FirstName}, checking in for our morning meeting today. Ready to go?", with the ability to copy them instantly into any input on any site. \
-Built with: `React`, `Netlify`, `Google Auth API`, `Web Storage API`, `Node/Express`, `Postgres`, `Heroku`, `Sendgrid SMTP`
+**Built with**: `React`, `Netlify`, `Google Login`, `Web Storage API`, `Node/Express`, `Postgres`, `Heroku`, `Sendgrid`
 
 <br/>
 <br/>
