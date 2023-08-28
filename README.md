@@ -17,7 +17,7 @@ Check out some of my cool projects:
 
 [**Creative Chronicles**](https://creativechronicles.org) \
 Get the YouTube videos of inventors, founders, and key executives at top companies in chronological order, understanding their evolving ideas and advice throughout their own careers. \
-**Built with**: `React`, `Next.js`, `Node/Express`, `Amazon EC2`, ****`Firebase`****, `PostgreSQL`, `Youtube API`
+**Built with**: `React`, `Next.js`, `Node/Express`, `Amazon EC2`, `Firebase`, `PostgreSQL`, `Youtube API`
 
 <br/>
 <br/>
