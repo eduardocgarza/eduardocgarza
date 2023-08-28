@@ -34,7 +34,7 @@ A dashboard for viewing and analyzing your rides using the Comma.ai self-driving
 [<img align="left" height="94px" width="94px" alt="CopyPanda" src="https://github.com/eduardocgarza/eduardocgarza/blob/main/logo-copypanda.png?raw=true"/>](https://copypanda.co)
 
 [**CopyPanda**](https://copypanda.co) \
-A web app to create message templates, like "Hey {FirstName}, checking in for our morning meeting today. Ready to go?", with the ability to copy them instantly into any input on any site. \
+A web app to create message templates, like `Hey {FirstName}, checking in for our morning meeting today. Ready to go?`, with the ability to copy them instantly into any input on any site. \
 **Built with**: `React`, `Netlify`, `Google Login`, `Web Storage API`, `Node/Express`, `Postgres`, `Heroku`, `Sendgrid`
 
 <br/>
@@ -48,7 +48,7 @@ In the overview below you will find my most recent work experience:
 
 **Co-Founder and Technical Lead** \
 [**Mozart**](https://mozartpianos.com) • Full-Time \
-Languages & Technologies: `React`, `Electron`, `Node/Express`, `Postgres`, `AWS`, `Heroku`, `Redis`
+**Worked with**: `React`, `Electron`, `Node/Express`, `Postgres`, `AWS`, `Heroku`, `Redis`
 
 <br/>
 <br/>
@@ -57,7 +57,7 @@ Languages & Technologies: `React`, `Electron`, `Node/Express`, `Postgres`, `AWS`
 
 **Full-Stack Developer, Intern** \
 [**BioConscious**](https://www.bioconscious.tech) • Full-Time \
-Languages & Technologies: `React`, `Electron`, `Swift`, `Node/Express`, `MySQL`
+**Worked with**: `React`, `Electron`, `Swift`, `Node/Express`, `MySQL`
 
 <br/>
 <br/>
@@ -66,7 +66,7 @@ Languages & Technologies: `React`, `Electron`, `Swift`, `Node/Express`, `MySQL`
 
 **Software Developer, Contract** \
 **Independent** • Contract \
-Languages & Technologies: `React`, `Vue.js`, `Redux`, `Context API`, `Node/Express`, `MySQL`, `Postgres`, `GCP`, `AWS`
+**Worked with**: `React`, `Vue.js`, `Redux`, `Context API`, `Node/Express`, `MySQL`, `Postgres`, `GCP`, `AWS`
 
 <br/>
 <br/>
