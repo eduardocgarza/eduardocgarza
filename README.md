@@ -1,9 +1,44 @@
 <h2>Hi there, I'm Eduardo 👋</h2>
 
-- 🔭 I'm a consultant at [Warpnet B.V.](https://warpnet.nl) with over five years of **Site Reliability Engineering (SRE)** and **DevOps** experience at various companies like [DUO](https://duo.nl/) and [KPN](https://www.kpn.com/).
-- 🌱 I've made several [contributions to open source](https://github.com/roaldnefs), to tools such as [SaltStack](https://github.com/saltstack/salt/pulls?q=is%3Apr+author%3Aroaldnefs), [Prometheus](https://github.com/prometheus/client_golang/pulls?q=is%3Apr+author%3Aroaldnefs), [rfcat](https://github.com/atlas0fd00m/rfcat/pulls?q=is%3Apr+author%3Aroaldnefs) and [many more](https://github.com/roaldnefs).
-- ⚡ Besides contributing to open source I enjoy tinkering with electronics, hardware hacking, and software development in general.
-- 💬 You can get in touch with me by email at [info@roaldnefs.com](mailto:info@roaldnefs.com) ([PGP](https://roaldnefs.com/key.asc)), Twitter ([@roaldnefs](https://twitter.com/roaldnefs)), and [LinkedIn](https://www.linkedin.com/in/roaldnefs/).
+- I'm a full-stack engineer, product engineer, and musician
+- 🌐 **Double-degree in Computer Science and Business** from [The University of British Columbia](https://www.ubc.ca)
+- 💼 Open to remote positions as a Software Developer
+- ⚡ I enjoy tinkering with electronics, hardware hacking, and software development in general.
+- 🗣️ Fluent in four languages: **Spanish**, **Italian**, **French**
+- 🎹 **Piano** player for over 15 years
+- 🏞️ Residing in **Vancouver, Canada**
+- 💬 You can get in touch with me by email at [eduardo@garza.ca](mailto:eduardo@garza.ca) and [LinkedIn](https://www.linkedin.com/in/eduardocgarza).
+
+<h2>Projects</h2>
+
+Check out some of my cool projects:
+
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.kpn.com/)
+
+[**Creative Chronicles**](https://creativechronicles.org) \
+A chronological video history of creative works \
+Built with: `React`, `Next.js`, `Node/Express`, `Amazon EC2`, `Firebase Storage`, `PostgreSQL`, `Youtube API`
+
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
+
+**Full-Stack Developer, Intern** \
+[**BioConscious**](https://www.bioconscious.tech) • Full-Time \
+Built with: `React`, `Electron`, `Swift`, `Node/Express`, `MySQL`
+
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/duo.jpeg?raw=true"/>](https://duo.nl/)
+
+**Software Developer, Contract** \
+[**DUO**](https://duo.nl/) • Contract \
+Built with: `React`, `Vue.js`, `Redux`, `Context API`, `Node/Express`, `MySQL`, `Postgres`, `GCP`, `AWS`
+
+<br/>
+<br/>
 
 <h2>Work Experience</h2>
 
@@ -11,25 +46,28 @@ In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.kpn.com/)
 
-**Senior Site Reliability Engineer (SRE)** \
-[**KPN**](https://www.kpn.com/) • Contract \
-Languages & Technologies: `RHEL`, `Python`, `Ansible`, `KSP` \
+**Co-Founder and Technical Lead**
+[**Mozart**](https://mozartpianos.com) • Full-Time \
+Languages & Technologies: `React`, `Electron`, `Node/Express`, `Postgres`, `AWS`, `Heroku`, `Redis` 
+
 <br/>
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
 
-**Software Engineer (SWE) and Site Reliability Engineer (SRE)** \
-[**Warpnet**](https://warpnet.nl/) • Full-time \
-Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`, `Prometheus` \
-Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint)
+**Full-Stack Developer, Intern** \
+[**BioConscious**](https://www.bioconscious.tech) • Full-Time \
+Languages & Technologies: `React`, `Electron`, `Swift`, `Node/Express`, `MySQL`
+
+<br/>
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/duo.jpeg?raw=true"/>](https://duo.nl/)
 
-**DevOps Engineer** \
+**Software Developer, Contract** \
 [**DUO**](https://duo.nl/) • Contract \
-Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` \
+Languages & Technologies: `React`, `Vue.js`, `Redux`, `Context API`, `Node/Express`, `MySQL`, `Postgres`, `GCP`, `AWS`
+
 <br/>
 <br/>
 
@@ -63,11 +101,11 @@ Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` 
       alt="LinkedIn"
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
   /></a>
-  <a href="https://twitter.com/eduardocgarza" target="_blank"
+  <!--<a href="https://twitter.com/eduardocgarza" target="_blank"
     ><img
       alt="Twitter"
       src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"
-  /></a>
+  /></a>-->
   <a href="https://www.youtube.com/@eduardocgarza"
     ><img
       src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white"
