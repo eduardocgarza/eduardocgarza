@@ -1,8 +1,8 @@
-<h2>Hi there, I'm Eduardo 👋</h2>
+<h1>Hi there, I'm Eduardo 👋</h1>
 
-- I'm a full-stack engineer, product engineer, and musician
+- I'm a **full-stack engineer**, **product engineer**, and **musician**
 - 🌐 **Double-degree in Computer Science and Business** from [The University of British Columbia](https://www.ubc.ca)
-- 💼 Open to remote positions as a Software Developer
+- 💼 Open to remote positions as a **Software Developer**
 - ⚡ I enjoy tinkering with electronics, hardware hacking, and software development in general.
 - 🗣️ Fluent in four languages: **Spanish**, **Italian**, **French**
 - 🎹 **Piano** player for over 15 years
@@ -16,7 +16,7 @@ Check out some of my cool projects:
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.kpn.com/)
 
 [**Creative Chronicles**](https://creativechronicles.org) \
-A chronological video history of creative works \
+Get the YouTube videos of inventors, founders, and key executives at top companies in chronological order, understanding their evolving ideas and advice throughout their own careers. \
 Built with: `React`, `Next.js`, `Node/Express`, `Amazon EC2`, `Firebase Storage`, `PostgreSQL`, `Youtube API`
 
 <br/>
@@ -24,18 +24,18 @@ Built with: `React`, `Next.js`, `Node/Express`, `Amazon EC2`, `Firebase Storage`
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
 
-**Full-Stack Developer, Intern** \
-[**BioConscious**](https://www.bioconscious.tech) • Full-Time \
-Built with: `React`, `Electron`, `Swift`, `Node/Express`, `MySQL`
+**Comma.ai OpenPilot Dashboard** \
+A dashboard for viewing and analyzing your rides using the Comma.ai self-driving car navigator. \
+Built with: `React`, `Google Maps API`, `Web Storage API`
 
 <br/>
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/duo.jpeg?raw=true"/>](https://duo.nl/)
 
-**Software Developer, Contract** \
-[**DUO**](https://duo.nl/) • Contract \
-Built with: `React`, `Vue.js`, `Redux`, `Context API`, `Node/Express`, `MySQL`, `Postgres`, `GCP`, `AWS`
+**CopyPanda** \
+A web app to create message templates, like "Hey {FirstName}, checking in for our morning meeting today. Ready to go?", with the ability to copy them instantly into any input on any site. \
+Built with: `React`, `Netlify`, `Google Auth API`, `Web Storage API`, `Node/Express`, `Postgres`, `Heroku`, `Sendgrid SMTP`
 
 <br/>
 <br/>
@@ -72,6 +72,7 @@ Languages & Technologies: `React`, `Vue.js`, `Redux`, `Context API`, `Node/Expre
 <br/>
 
 <h2>Skills</h2>
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
