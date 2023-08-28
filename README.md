@@ -47,7 +47,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="Mozart" src="https://github.com/eduardocgarza/eduardocgarza/blob/main/logo-mozart.jpg?raw=true"/>](https://mozartpianos.com)
 
 **Co-Founder and Technical Lead** \
-[**Mozart**](https://mozartpianos.com) • Full-Time \
+[**Mozart**](https://mozartpianos.com) • Full-Time • Dec 2020 to July 2023 (3y) \
 **Worked with**: `React`, `Electron`, `Node/Express`, `Postgres`, `AWS`, `Heroku`, `Redis`
 
 <br/>
@@ -56,7 +56,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="BioConscious" src="https://github.com/eduardocgarza/eduardocgarza/blob/main/logo-bioconscious.png?raw=true"/>](https://www.bioconscious.tech)
 
 **Full-Stack Developer, Intern** \
-[**BioConscious**](https://www.bioconscious.tech) • Full-Time \
+[**BioConscious**](https://www.bioconscious.tech) • Full-Time • May to Sept 2019 (5mo) \
 **Worked with**: `React`, `Electron`, `Swift`, `Node/Express`, `MySQL`
 
 <br/>
@@ -64,7 +64,7 @@ In the overview below you will find my most recent work experience:
 
 <img align="left" height="94px" width="94px" alt="Contractor" src="https://github.com/eduardocgarza/eduardocgarza/blob/main/logo-contractor.png?raw=true"/>
 
-**Software Developer, Contract** \
+**Software Developer, Contract** 2016 to 2020 (5y) \
 **Independent** • Contract \
 **Worked with**: `React`, `Vue.js`, `Redux`, `Context API`, `Node/Express`, `MySQL`, `Postgres`, `GCP`, `AWS`
 
